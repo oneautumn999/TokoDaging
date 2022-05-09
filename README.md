@@ -1,3 +1,10 @@
+Toko daging ini saya tambahkan fitur untuk menentukan barang mana diskon dan tidak, lalu ditampilan juga akan terlihat harga sebelum diskon dan juga setelah diskon
+
+
+
+
+
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
