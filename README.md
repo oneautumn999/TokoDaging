@@ -1,4 +1,5 @@
-Toko daging ini saya tambahkan fitur untuk menentukan barang mana diskon dan tidak, lalu ditampilan juga akan terlihat harga sebelum diskon dan juga setelah diskon
+Toko daging ini saya tambahkan fitur untuk menentukan barang mana diskon dan tidak, lalu ditampilan juga akan terlihat harga sebelum diskon dan juga setelah diskon. 
+Lalu juga admin dapat melakukan mining data dengan metode apriori di halaman khusus admin :).
 
 
 
